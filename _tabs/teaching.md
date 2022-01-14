@@ -157,7 +157,7 @@ otherwise noted.
 
 ## Fall 2009
 - Michigan State University
-  - **MATH 103 - College Algebra**</br>
+  - **MATH 103 - College Algebra**<br/>
     Teaching assistant for 3 sections
 
 ---
@@ -171,14 +171,14 @@ otherwise noted.
 ## Spring 2009
 - University of Nevada, Reno
   - **MATH 128 - Precalculus and Trigonometry**<br/>
-    Instructor for 1 intensive 5-credit section meeting 5 days per week
+    1 intensive 5-credit section meeting 5 days per week
 
 ---
 
 ## Fall 2008
 - University of Nevada, Reno
-  - **MATH 128 - Precalculus and Trigonometry**
-    Instructor for 1 intensive 5-credit section meeting 5 days per week
+  - **MATH 128 - Precalculus and Trigonometry**<br/>
+    1 intensive 5-credit section meeting 5 days per week
 
 ---
 
@@ -198,7 +198,7 @@ otherwise noted.
 ## Fall 2007
 - University of Nevada, Reno
   - **MATH 126 - Precalculus I**<br/>
-    Instructor for 2 sections
+    2 sections
 
 ---
 
