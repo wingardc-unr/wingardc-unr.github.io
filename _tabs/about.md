@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 3
+order: 4
 ---
 
 After graduating from Michigan State with an M.S. in applied math in 2011, I
