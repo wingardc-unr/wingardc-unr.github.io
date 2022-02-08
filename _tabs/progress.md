@@ -6,10 +6,10 @@ order: 3
 
 - [ ] Required Courses
   - [x] MATH 713 - Abstract and Real Analysis I
-  - [x] MATH 736 - Numerical Linear Algebra **(pending transfer from MSU)**
+  - [x] MATH 736 - Numerical Linear Algebra
   - [ ] Two of these:
     - [ ] MATH 705 - Applied Functional Analysis
-    - [x] MATH 715 - Complex Function Theory **(pending transfer from MSU)**
+    - [x] MATH 715 - Complex Function Theory
     - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
     - [ ] MATH 751 - Operations Research I
 
@@ -19,9 +19,9 @@ order: 3
     - [ ] MATH 702 - Numerical Analysis and Approximation II *(in progress)*
     - [x] (T) MATH 713 - Abstract and Real Analysis I
     - [x] (T) MATH 714 - Abstract and Real Analysis II
-    - [x] (T) MATH 715 - Complex Function Theory **(pending transfer from MSU)**
+    - [x] (T) MATH 715 - Complex Function Theory
     - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
-    - [x] (T) MATH 736 - Numerical Linear Algebra **(pending transfer from MSU)**
+    - [x] (T) MATH 736 - Numerical Linear Algebra
     - [x] MATH 744 - Differential Topology
     - [x] (T) MATH 761 - Methods in Applied Math I
     - [x] (T) MATH 762 - Methods in Applied Math II
@@ -37,8 +37,8 @@ order: 3
   - [x] MATH 688 - Partial Differential Equations
   - [x] MATH 713 - Abstract and Real Analysis I
   - [x] MATH 714 - Abstract and Real Analysis II
-  - [x] MATH 715 - Complex Function Theory **(pending transfer from MSU)**
-  - [x] MATH 736 - Numerical Linear Algebra **(pending transfer from MSU)**
+  - [x] MATH 715 - Complex Function Theory
+  - [x] MATH 736 - Numerical Linear Algebra
   - [x] MATH 761 - Methods in Applied Math I
   - [x] MATH 762 - Methods in Applied Math II
 
