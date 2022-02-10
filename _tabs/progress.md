@@ -4,16 +4,18 @@ icon: fas fa-tasks
 order: 3
 ---
 
+*(T = transferred)*
+
 - [ ] Required Courses
   - [x] MATH 713 - Abstract and Real Analysis I
-  - [x] MATH 736 - Numerical Linear Algebra
+  - [x] (T) MATH 736 - Numerical Linear Algebra
   - [ ] Two of these:
     - [ ] MATH 705 - Applied Functional Analysis
-    - [x] MATH 715 - Complex Function Theory
+    - [x] (T) MATH 715 - Complex Function Theory
     - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
     - [ ] MATH 751 - Operations Research I
 
-- [ ] 48 Credits of Non-Dissertation Coursework (T = transferred)
+- [ ] 48 Credits of Non-Dissertation Coursework
   - [ ] 30 Credits of 700+ Courses
     - [x] MATH 701 - Numerical Analysis and Approximation I
     - [ ] MATH 702 - Numerical Analysis and Approximation II *(in progress)*
@@ -25,8 +27,8 @@ order: 3
     - [x] MATH 744 - Differential Topology
     - [x] (T) MATH 761 - Methods in Applied Math I
     - [x] (T) MATH 762 - Methods in Applied Math II
-  - [ ] 18 Credits of 600+ Courses
-    - [ ] MATH 612 - Functional Analysis *(in progress)*
+  - [x] 18 Credits of 600+ Courses
+    - [x] STAT 775 - Advanced Topics in Probability & Statistics (Data Assimilation)
     - [x] (T) MATH 642 - Differential Geometry
     - [x] (T) MATH 688 - Partial Differential Equations
     - [x] STAT 645 - Introduction to Statistical Computing
@@ -60,7 +62,6 @@ Other non-thesis UNR courses not listed above:
   - STAT 753 - Stochastic Models and Simulation
 - Fall 2021:
   - MATH 793 - Independent Study *(1 credit)*
-  - STAT 775 - Advanced Topics in Probability & Statistics (Data Assimilation)
 - Spring 2008:
   - MATH 610 - Complex Analysis
   - MATH 620 - Mathematical Modeling
