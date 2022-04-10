@@ -22,7 +22,7 @@ order: 3
     - [x] (T) MATH 713 - Abstract and Real Analysis I
     - [x] (T) MATH 714 - Abstract and Real Analysis II
     - [x] (T) MATH 715 - Complex Function Theory
-    - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
+    - [ ] STAT 753 - Stochastic Models and Simulation *(in progress)*
     - [x] (T) MATH 736 - Numerical Linear Algebra
     - [x] MATH 744 - Differential Topology
     - [x] (T) MATH 761 - Methods in Applied Math I
@@ -59,7 +59,6 @@ order: 3
 Other non-thesis UNR courses not listed above:
 - Spring 2022:
   - MATH 793 - Independent Study *(1 credit)*
-  - STAT 753 - Stochastic Models and Simulation
 - Fall 2021:
   - MATH 793 - Independent Study *(1 credit)*
 - Spring 2008:
