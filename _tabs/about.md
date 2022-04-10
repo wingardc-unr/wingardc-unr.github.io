@@ -40,7 +40,7 @@ computer science courses locally and online.
 |:-------------------------------------------------|:-----|:---------------------|
 | <a href="https://www.credly.com/badges/2725e2f3-0ecc-4e49-b0bc-956763a0877b/public_url" target="_blank">PCAP: Certified Associate in Python Programming</a> | 2020 | Python Institute |
 | <a href="https://www.credly.com/badges/255a937a-36b8-4465-8a27-dbfb7d77b814/public_url" target="_blank">PCEP: Certified Entry-Level Python Programmer</a> | 2020 | Python Institute |
-| <a href="https://www.credly.com/badges/97ad28fc-6bf4-4dff-893d-c71a413db929/public_url" target="_blank">SAS Certified Specialist: Base Programming Using SAS 9.4</a> | 2020 | Oracle |
+| <a href="https://www.credly.com/badges/97ad28fc-6bf4-4dff-893d-c71a413db929/public_url" target="_blank">SAS Certified Specialist: Base Programming Using SAS 9.4</a> | 2020 | SAS |
 | <a href="https://www.credly.com/badges/c65a19db-4ae8-4156-9060-52522c32fd0e/public_url" target="_blank">Oracle Database PL/SQL Developer Certified Professional</a> | 2019 | Oracle |
 | <a href="https://www.credly.com/badges/0b764875-af25-4fdc-be0b-f1b710cc96f4/public_url" target="_blank">Oracle Certified Professional, Java SE 7 Programmer</a> | 2018 | Oracle |
 | <a href="https://www.credly.com/badges/765a4386-60ae-4a78-b553-56784c4c3e24/public_url" target="_blank">Oracle Certified Associate, Java SE 7 Programmer</a> | 2017 | Oracle |

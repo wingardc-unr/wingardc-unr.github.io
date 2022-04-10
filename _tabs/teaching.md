@@ -14,7 +14,7 @@ otherwise noted.
 ## Spring 2022
 - Columbus State Community College
   - **MATH 1111 - Discrete Mathematics for Computing**<br/>
-    Live online, <a href="https://en.wikipedia.org/wiki/Flipped_classroom" target="_blank">flipped format</a>, 3 sections
+    Live online, 3 sections
 
 - Eastern Gateway Community College
   - **DSI 102 - Statistical Programming**<br/>
