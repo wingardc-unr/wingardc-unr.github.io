@@ -15,14 +15,14 @@ order: 3
     - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
     - [ ] MATH 751 - Operations Research I
 
-- [ ] 48 Credits of Non-Dissertation Coursework
-  - [ ] 30 Credits of 700+ Courses
+- [x] 48 Credits of Non-Dissertation Coursework
+  - [x] 30 Credits of 700+ Courses
     - [x] MATH 701 - Numerical Analysis and Approximation I
-    - [ ] MATH 702 - Numerical Analysis and Approximation II *(in progress)*
+    - [x] MATH 702 - Numerical Analysis and Approximation II
     - [x] (T) MATH 713 - Abstract and Real Analysis I
     - [x] (T) MATH 714 - Abstract and Real Analysis II
     - [x] (T) MATH 715 - Complex Function Theory
-    - [ ] STAT 753 - Stochastic Models and Simulation *(in progress)*
+    - [x] STAT 753 - Stochastic Models and Simulation
     - [x] (T) MATH 736 - Numerical Linear Algebra
     - [x] MATH 744 - Differential Topology
     - [x] (T) MATH 761 - Methods in Applied Math I
@@ -45,7 +45,7 @@ order: 3
   - [x] MATH 762 - Methods in Applied Math II
 
 - [ ] Qualifying Exams
-  - [ ] Numerical Analysis (701, 702)
+  - [x] Numerical Analysis (701, 702)
   - [ ] Real and Complex Analysis (713, 715)
   - [ ] Linear Algebra (735, 736)
 
