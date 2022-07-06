@@ -11,6 +11,13 @@ otherwise noted.
 
 ---
 
+## Summer 2022
+- Eastern Gateway Community College
+  - **DSI 109 - Programming Foundations**<br/>
+    Asynchronous online, 8 weeks
+
+---
+
 ## Spring 2022
 - Columbus State Community College
   - **MATH 1111 - Discrete Mathematics for Computing**<br/>
