@@ -4,15 +4,15 @@ icon: fas fa-tasks
 order: 3
 ---
 
-*(T = transferred)*
+*(T = transferred from UNR MS or MSU MS)*
 
-- [ ] Required Courses
+- [x] Required Courses
   - [x] MATH 713 - Abstract and Real Analysis I
   - [x] (T) MATH 736 - Numerical Linear Algebra
-  - [ ] Two of these:
-    - [ ] MATH 705 - Applied Functional Analysis
+  - [x] Two of these:
+    - [x] MATH 705 - Applied Functional Analysis *(in progress)*
     - [x] (T) MATH 715 - Complex Function Theory
-    - [ ] MATH 735 - Advanced Linear Algebra *(planned Fall 2022)*
+    - [x] MATH 735 - Advanced Linear Algebra
     - [ ] MATH 751 - Operations Research I
 
 - [x] 48 Credits of Non-Dissertation Coursework
@@ -46,7 +46,7 @@ order: 3
 
 - [ ] Qualifying Exams
   - [x] Numerical Analysis (701, 702)
-  - [ ] Real and Complex Analysis (713, 715)
+  - [x] Real and Complex Analysis (713, 715)
   - [ ] Linear Algebra (735, 736)
 
 - [ ] Dissertation Items
@@ -56,7 +56,7 @@ order: 3
 
 ---
 
-Other non-thesis UNR courses not listed above:
+Other non-thesis and non-dissertation UNR courses not listed above:
 - Spring 2022:
   - MATH 793 - Independent Study *(1 credit)*
 - Fall 2021:
