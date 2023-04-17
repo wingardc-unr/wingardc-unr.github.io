@@ -11,9 +11,11 @@ State University for a semester.  After that I transitioned into full-time
 software development.  As of Fall 2021 I'm in the Mathematics Ph.D. program
 at University of Nevada, Reno.
 
-I live in Ohio with my wife and our abundance of cats and eventually may split
-time between Ohio and Reno. Since 2017 I've been occasionally teaching math and
-computer science courses locally and online.
+I live in Ohio with my wife and our abundance of cats, and I travel to Reno
+as needed for this program. At this stage that's about once per year. Since
+2017 I've been occasionally teaching math and computer science courses
+locally and online, although that is on hold for now so that I can focus on
+this program.
 
 
 # Research Interests
