@@ -44,10 +44,10 @@ order: 3
   - [x] MATH 761 - Methods in Applied Math I
   - [x] MATH 762 - Methods in Applied Math II
 
-- [ ] Qualifying Exams
+- [x] Qualifying Exams
   - [x] Numerical Analysis (701, 702)
   - [x] Real and Complex Analysis (713, 715)
-  - [ ] Linear Algebra (735, 736)
+  - [x] Linear Algebra (735, 736)
 
 - [ ] Dissertation Items
   - [ ] Proposal
