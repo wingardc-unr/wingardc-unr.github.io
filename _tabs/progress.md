@@ -50,8 +50,9 @@ order: 3
   - [x] Linear Algebra (735, 736)
 
 - [ ] Dissertation Items
-  - [ ] Proposal
+  - [x] Proposal
   - [ ] 24 Credits of MATH 799 - Dissertation
+  - [ ] Completed Dissertation
   - [ ] Defense
 
 ---
