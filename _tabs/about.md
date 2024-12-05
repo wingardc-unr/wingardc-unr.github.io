@@ -40,7 +40,7 @@ this program.
 
 | Certification Name (click link for verification) | Year | Certifying Authority |
 |:-------------------------------------------------|:-----|:---------------------|
-| <a href="assets/files/AWS_SAA_verification_info.pdf" target="_blank">AWS Certified Solutions Architect - Associate</a> | 2024 | AWS |
+| <a href="/assets/files/AWS_SAA_verification_info.pdf" target="_blank">AWS Certified Solutions Architect - Associate</a> | 2024 | AWS |
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B2F75DE353BC73660D65252A1B6A26D6E69BE130C76DF1B48D6205354F26829C" target="_blank">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | 2023 | Oracle |
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1127A24DD184FD7CE5A9A83EF610D324F26C963C1A85638B8D9A7AED8571DD35" target="_blank">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | 2023 | Oracle |
 | <a href="https://www.credly.com/badges/2725e2f3-0ecc-4e49-b0bc-956763a0877b/public_url" target="_blank">PCAP: Certified Associate in Python Programming</a> | 2020 | Python Institute |
