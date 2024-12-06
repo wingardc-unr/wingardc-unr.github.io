@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Chris Wingard # the main title
 
-tagline: Mathematics Ph.D. Student and Software Engineer # it will display as the sub-title
+tagline: Mathematics Ph.D. Student, Community College Instructor, Software Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
